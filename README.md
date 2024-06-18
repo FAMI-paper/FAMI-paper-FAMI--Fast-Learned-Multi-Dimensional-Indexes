@@ -28,4 +28,5 @@ example: ./main testdata.txt 1000000 1000 2 7 grid+r-tree 18 100 200 1 400 1
 + <update_ratio>: The percentage of updated data points
 
 + ## DATASET
-+ TPCH: https://drive.google.com/file/d/1Qdq5acHdwKmOSptPl0JqB-G_F44Eynpq/view?usp=sharing
++ https://drive.google.com/drive/folders/1So41POUOSdDFE6DZpsP9346RkGg_WDnM?usp=drive_link
+
