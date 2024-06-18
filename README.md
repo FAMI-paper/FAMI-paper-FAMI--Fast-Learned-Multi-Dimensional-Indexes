@@ -25,4 +25,7 @@ example: ./main testdata.txt 1000000 1000 2 7 grid+r-tree 18 100 200 1 400 1
 + <rs_group_size>: The number of data points in each group on the y-axis 
 + <query_type>: Query type: 0 for point query, 1 for range query, 2 for update query 
 + <range_size>: Range query size, the size in each dimension is 1/<range_size> of the entire range 
-+ <update_ratio>: The percentage of updated data points 
++ <update_ratio>: The percentage of updated data points
+
++ ## DATASET
++ TPCH: https://drive.google.com/file/d/1Qdq5acHdwKmOSptPl0JqB-G_F44Eynpq/view?usp=sharing
